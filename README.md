@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sam Blanckley
 
-[!](./working on a laptop.png)
+![logo of a dragon working on a laptop](./laptop.png)
 
 🎓 Computer Science BSc (Hons) | Durham University 2025  
 💻 Aspiring Software Developer / Data Analyst | Always learning, always building  
