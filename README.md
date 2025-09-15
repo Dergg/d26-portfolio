@@ -25,7 +25,7 @@ Git | GitHub | VS Code | Unity | Jupyter | Power BI
 
 ## 🚀 Projects
 
-### [**Shortest Vector Problem Estimation**](https://github.com/Dergg/SVP_in_Cpp)\
+### [**Shortest Vector Problem Estimation**](https://github.com/Dergg/SVP_in_Cpp)
   C++ tool to estimate SVP with LLL-reduction & SE-enumeration | *C++, Makefile*\
   During one of my many university modules, I was given the task of approximating solutions to the Shortest Vector Problem using C++, which, at the time, I was unfamiliar with. My appraoch to this project was to first code my solution in Python, which is a language I'm much more familiar with, then "translating" my code to C++, as Python and C++ can have very similar functionality. This was one of my highest-scoring modules during my second year at university.
 
