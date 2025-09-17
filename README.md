@@ -54,6 +54,24 @@ Git | GitHub | VS Code | Unity | Jupyter | Power BI
 
 ---
 
+## Reflective Practice
+
+During my Data Technician Bootcamp with JustIT, I created a machine learning algorithm to predict college
+student stress levels. At the start, I felt uncertain about how to explore and utilise the dataset effectively,
+but I was motivated to apply my previous AI knowledge. The project was ultimately successful, with the
+model achieving over 90% accuracy, but the process was not without challenges. Unclear data labelling and
+messy information made analysis and feature selection less efficient, and I realised that while my technical
+skills enabled me to build an accurate model, the lack of structured exploratory data analysis slowed
+progress and limited deeper insights.
+
+
+From this, I learned that effective data preparation and thorough exploratory analysis are as crucial as the
+modelling itself, and that dedicating more time to these steps can greatly improve both efficiency and
+outcomes. For future projects, I plan to streamline my workflow by applying structured EDA techniques,
+documenting preprocessing steps, and allocating more time to feature selection before modelling.
+
+---
+
 ## 📚 Currently Learning
 
 - Data Technician Bootcamp with **JustIT**  
